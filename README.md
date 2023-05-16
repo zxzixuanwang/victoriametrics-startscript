@@ -10,4 +10,4 @@
 4c8g * 3
 
 # 采集数据
-采集 300 台服务器的cpu,memory,disk等信息毫无压力
+采集 300 台服务器的cpu,memory,disk,network等信息毫无压力
